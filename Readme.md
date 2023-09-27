@@ -17,7 +17,7 @@ protected override DevExpress.Skins.XtraForm.FormPainter CreateFormBorderPainter
 }
 ```
 
-You can also use the [DevExpress DirectX Form](https://docs.devexpress.com/WindowsForms/403878/controls-and-libraries/forms-and-user-controls/direct-x-form) to deliver modern, web inspired user interfaces and ensure that your apps support today’s high resolution/high DPI monitors.
+You can also use the [DevExpress DirectX Form](https://docs.devexpress.com/WindowsForms/403878/controls-and-libraries/forms-and-user-controls/direct-x-form) to deliver modern, web-inspired user interfaces and ensure that your apps support today’s high resolution/high DPI monitors.
 
 
 ## Files to Review
