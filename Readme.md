@@ -37,7 +37,7 @@ You can also use the [DevExpress DirectX Form](https://docs.devexpress.com/Windo
 
 * [XtraForm - How to center-align a header caption text](https://supportcenter.devexpress.com/ticket/details/t103959/xtraform-how-to-center-align-a-header-caption-text)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-xtraform-center-caption&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-xtraform-center-caption&~~~was_helpful=no)
 
