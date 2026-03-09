@@ -9,7 +9,7 @@
 
 This example creates a `CustomFormPainter` class that draws the title of the form in the center.
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/xtraform-how-to-center-align-a-header-caption-text-t103979/17.2.3%2B/media/winforms-xtraform-centered-title.png)
+![WinForms XtraForm - How to center a form caption](media/winforms-xtraform-centered-title.png)
 
 ```csharp
 protected override DevExpress.Skins.XtraForm.FormPainter CreateFormBorderPainter() {
@@ -43,3 +43,4 @@ You can also use the [DevExpress DirectX Form](https://docs.devexpress.com/Windo
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
